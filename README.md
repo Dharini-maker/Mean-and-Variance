@@ -2,6 +2,10 @@
 
 #  Mean and variance of a discrete  distribution
 
+# Developed by:S.Dharini
+
+# Reg no:212224040072
+
 # Aim : 
 
 To find mean and variance of arrival of objects from the feeder using probability distribution
@@ -49,10 +53,6 @@ It shows the distance of a random variable from its mean. It is calcualted as
 ![image](https://user-images.githubusercontent.com/103921593/229993174-5b67e57e-3e01-4ac4-9f83-410a932b22bf.png)
 
 # Program :
-
-Developed by:S.Dharini
-
-Reg no:212224040072
 
 ```
 import numpy as np
